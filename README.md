@@ -7,13 +7,16 @@ This repository is organized into three main folders, each corresponding to a sp
 
 * **/app_brazil**
   Contains the application for nationwide analysis of congenital anomalies across Brazil.
-  🔗 Access the app: [https://projetoanomaliascongenitas.shinyapps.io/ac_br/]
+  
+  🔗 Access the app: https://projetoanomaliascongenitas.shinyapps.io/ac_br/
 
 * **/app_north_establishments**
   Contains the application focused on health establishments located in the Northern region of Brazil.
-  🔗 Access the app: [https://projetoanomaliascongenitas.shinyapps.io/Vigilancia_norte/]
+  
+  🔗 Access the app: https://projetoanomaliascongenitas.shinyapps.io/Vigilancia_norte/
 
 * **/app_RS_establishments**
   Contains the application focused on health establishments located in Rio Grande do Sul.
-  🔗 Access the app: [https://projetoanomaliascongenitas.shinyapps.io/Vigilancia_ativa_rs/]
+  
+  🔗 Access the app: https://projetoanomaliascongenitas.shinyapps.io/Vigilancia_ativa_rs/
 
